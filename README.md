@@ -6,7 +6,7 @@ Extend the ActiveRecord
 
 Add this line to your application's Gemfile:
 
-    gem 'active_record_extensions', github: 'developerinlondon/active_record_extensions'
+    gem 'active_record_extensions', git: 'git@github.com:cronycle/active_record_extensions.git'
 
 And then execute:
 
